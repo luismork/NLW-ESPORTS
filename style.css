@@ -29,7 +29,7 @@ header {
 header div {
     width: 120px;
     margin: auto;
-    /* background-image: linear-gradient(90deg, #9572fc 0%, #43e7ad 50.53%, #e2d45c 100%); */
+    background-image: linear-gradient(90deg, #9572fc 0%, #43e7ad 50.53%, #e2d45c 100%);
     border-radius: 50%;
     display: flex;
     padding: 4px;
@@ -49,7 +49,6 @@ header img {
 main {
     max-width: 580px;
     width: 90%;
-    margin: auto;
     display: flex;
     flex-direction: column;
     gap: 24px;
